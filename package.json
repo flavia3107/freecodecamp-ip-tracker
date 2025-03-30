@@ -1,5 +1,14 @@
 {
-  "dependencies": {
+  "name": "ip-tracker",
+  "version": "1.0.0",
+  "description": "A simple Vanilla JS project using Vite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
     "vite": "^6.2.3"
   }
 }
