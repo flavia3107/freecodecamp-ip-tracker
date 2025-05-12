@@ -12,8 +12,8 @@ This project allows users to enter an IP address (or automatically fetch their o
 - **HTML5** — Markup structure  
 - **CSS** — Utility-first styling and layout  
 - **JavaScript** — Fetch API, async/await  
-- **[ipify API](https://geo.ipify.org/)** *(or similar)* — For IP geolocation data  
-- **[Leaflet.js](https://leafletjs.com/)** *(optional)* — Interactive map display *(if map is included)*  
+- **[ipify API](https://geo.ipify.org/)** — For IP geolocation data  
+- **[Leaflet.js](https://leafletjs.com/)** — Interactive map display
 
 ---
 
