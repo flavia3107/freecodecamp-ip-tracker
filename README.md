@@ -3,7 +3,7 @@
 A simple **IP Address Tracker** application built using **HTML**, **CSS**, and **JavaScript**.  
 This project allows users to enter an IP address (or automatically fetch their own) and view its approximate **geolocation**, **ISP**, and other details using a public **REST API**.
 
-> **Live Demo**: [Try IP Address Tracker]( ) <!-- (Replace with your live link) -->
+> **Live Demo**: [Try IP Address Tracker](https://flavia3107.github.io/freecodecamp-ip-tracker/)
 
 ---
 
